@@ -1,0 +1,14 @@
+using System;
+
+string line1 = "╔═══════════════════╗";
+string line2 = "| ▢▢▢▢▢▢▢▢▢▢▢ |";
+string line3 = "╚═══════════════════╝";
+
+for(int i = 0; i < 14; i++)
+{	
+Console.WriteLine(line1);
+Console.WriteLine(line2.Remove(i) + " |");
+Console.WriteLine(line3);
+}
+
+
