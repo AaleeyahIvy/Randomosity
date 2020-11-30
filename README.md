@@ -1,3 +1,2 @@
-# glob-game
-Simple rpg game
-  Practicing code in dot.net fiddle :)
+# Snippets
+Includes random ideas that I create to fill my boredom void.
